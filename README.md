@@ -1,4 +1,4 @@
-اپلیکیشن تحت وب التون شاپ 🏪
+  پلیکیشن تحت وب التون شاپ 🏪
 
 این اپلیکیشن کاملا بر پایه خود وبسایت اصلی بر دامنه https://EltonShop.net ساخته شده است
 
@@ -12,3 +12,7 @@ MD5: cda83490ca6231df1898c36654e2ad47
 
 Discord : https://discord.gg/elton
 Telegram : https://t.me/elton_shop
+
+
+
+![130](https://github.com/user-attachments/assets/9398f2a4-ac4c-4b0f-b1f3-297bc2e78b95)
